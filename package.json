@@ -1,0 +1,16 @@
+{
+  "name": "notes-assignment",
+  "version": "1.0.0",
+  "description": "Notes keeper backend",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anjali Jacob",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  }
+}
